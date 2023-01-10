@@ -16,4 +16,4 @@
 <p ><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Cynthia-Amanat&show_icons=true&locale=en&layout=compact" alt="Cynthia-Amanat" /></p>
 <br/>
 
-<p>&nbsp;<img src="https:/github-readme-stats-sigma-five.vercel.app/api?username=Cynthia-Amanat&show_icons=true&locale=en" alt="Cynthia-Amanat" /></p>
+<p>&nbsp;<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Cynthia-Amanat&show_icons=true&locale=en" alt="Cynthia-Amanat" /></p>
